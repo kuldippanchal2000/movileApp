@@ -1,0 +1,165 @@
+# Node modules
+node_modules/
+
+# Yarn integrity file
+.yarn-integrity
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for instrumented libraries
+lib-cov
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# nyc test coverage
+.nyc_output
+
+# Build directories
+build/
+dist/
+out/
+tmp/
+temp/
+
+# Dependency directories
+bower_components/
+
+# IDE/editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# React Native specific
+.expo/
+.expo-shared/
+*.jks
+*.keystore
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.hmap
+*.ipa
+*.app
+*.dSYM/
+ios/Pods/
+ios/DerivedData/
+
+# Environment files
+.env
+.env.*.local
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Bundler config
+.bundle/
+
+# Jest
+jest-coverage/
+
+# Metro
+*.js.map
+*.map
+
+# macOS Finder
+*.DS_Store
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Expo
+.expo/
+.expo-shared/
+
+# React Native build artifacts
+android/.gradle/
+android/app/build/
+android/gradle/
+android/gradle-wrapper.jar
+android/gradle-wrapper.properties
+
+# Miscellaneous
+*.orig
+*.sw?
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Xcode
+*.xcworkspace/
+*.xcuserdata/
+*.xcscheme/
+*.xcodeproj/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+
+# macOS Finder
+.DS_Store
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+*.gradle/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# PHP
+*.phpunit.result.cache
+
+# Ruby
+*.gem
+*.rbc
+/.bundle
+/config/credentials.yml.enc
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/system
+/.env
+/.env.*
+
+android
+vendor
+ios
